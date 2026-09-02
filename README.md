@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Lydia 👋
 
-<!--
-**RavenFayrin/RavenFayrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer passionate about organization, user-friendly software, and data. I primarily work with **Go, SQL/PostgreSQL, and Python**, with a focus on building clean, practical backend systems.
 
-Here are some ideas to get you started:
+### ⭐ Favorite Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Fabricated Calendar](https://github.com/RavenFayrin/fabricated-calendar)** — A Go application for creating and managing fully customizable fantasy calendars.
+
+### 📚 Recently
+
+* 🎓 Completed the **Boot.dev Backend Developer Learning Path**
+* 🚀 Continuing development on Fabricated Calendar
+* 🔗 **[LinkedIn](https://www.linkedin.com/in/lydia-bollig-417456433/)**
