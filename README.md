@@ -10,4 +10,4 @@ I'm a backend developer passionate about organization, user-friendly software, a
 
 * 🎓 Completed the **Boot.dev Backend Developer Learning Path**
 * 🚀 Continuing development on Fabricated Calendar
-* 🔗 **[LinkedIn](https://www.linkedin.com/in/lydia-bollig-417456433/)**
+* 🔗 **[LinkedIn](https://www.linkedin.com/in/lydia-bollig-10a4a7189/)**
